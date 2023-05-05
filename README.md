@@ -15,6 +15,6 @@ To start the server and sync Sequelize models to the database, run "npm start". 
 # License
 This application is licensed by the MIT license.
 
-# Walkthrough Video
+# Walk-through Video
 
 
